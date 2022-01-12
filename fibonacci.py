@@ -1,3 +1,5 @@
+'''Program to check if inputted no. is fibonacci or not'''
+
 n1=0
 n2=1
 f=0
