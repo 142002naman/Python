@@ -1,3 +1,5 @@
+'''Program to find largest and smallest no. from inputted list
+
 a=[]
 for i in range(0,10,1):
     d=int(input("Enter number:"))
