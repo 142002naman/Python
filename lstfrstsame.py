@@ -1,3 +1,5 @@
+'''Program to input names in list and print names whose last and first letter are same. e.g :nitin'''
+
 a=[]
 for i in range(0,10,1):
     d=input("Enter Name:")
