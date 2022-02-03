@@ -1,3 +1,5 @@
+'''Program to play Quiz Game'''
+
 c=0
 print("Note:")
 print("1.Negitive marking will be done if type wrong input")
