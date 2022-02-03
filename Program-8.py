@@ -1,4 +1,4 @@
-'''Program to find largest and smallest no. from inputted list
+'''Program to find largest and smallest no. from inputted list'''
 
 a=[]
 for i in range(0,10,1):
