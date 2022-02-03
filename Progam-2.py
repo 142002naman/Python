@@ -1,4 +1,4 @@
-
+'''Program to play stone paper scissor game with computer'''
 
 import random
 print("Program to play stone paper scissor")
